@@ -66,6 +66,12 @@ CarConnect utiliza protocolos de seguridad modernos para garantizar la protecci�
 ## 🧠 Autores y colaboradores
 
 Proyecto desarrollado por estudiantes especializados en sistemas y tecnología, con el objetivo de mejorar la vida diaria mediante soluciones prácticas y accesibles.
+---
+
+## 📄 Documentación Técnica
+
+Puedes consultar la documentación técnica completa del proyecto **CarConnect** en el siguiente enlace:
+
 
 ---
 
