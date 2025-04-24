@@ -8,7 +8,7 @@ Aplicación inteligente para la climatización del automóvil
 
 ---
 
-![CarConnect Banner]("https://github.com/Enmanuel072/Carconnect/blob/main/Carconnect-banner.png")
+![Carconnect Banner](Carconnect-banner.png)
 
 **CarConnect** es una solución innovadora que permite controlar la climatización del vehículo de forma remota desde el móvil. Diseñado para mejorar la comodidad y la calidad de vida de los conductores, este sistema permite encender la calefacción o el aire acondicionado sin necesidad de estar dentro del coche.
 
